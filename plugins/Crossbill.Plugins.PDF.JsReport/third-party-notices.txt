@@ -45,8 +45,10 @@ License notice for jsreport.binary.linux, jsreport.binary, jsreport.Client, jsre
 
 	The MIT License &#8211; Open Source Initiative
 
+
 	
 	
+
 
 
 
@@ -140,7 +142,6 @@ License notice for jsreport.binary.linux, jsreport.binary, jsreport.Client, jsre
 	
 					
 		
-				
 		
 
 
@@ -344,6 +345,7 @@ The content on this website, of which Opensource.org is the author, is licensed 
 
 
 		
+				
 										
 							
 		
