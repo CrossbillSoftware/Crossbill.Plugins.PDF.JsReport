@@ -1,6 +1,6 @@
 # PDF JsReport plugin for Crossbill products
 
-Crossbill.Plugins.PDF.JsReport is the plugin written around @JsReport library used for PDF support in Crossbill products (including Crossbill Cone and Crossbill Bone). The plugin implements a common interface used to represent data in PDF format. Installing plugin on Cone or Bone enables PDF functionality including PDF export of the user data and reports.
+Crossbill.Plugins.PDF.JsReport is the plugin written around [JsReport library](https://github.com/jsreport/jsreport-dotnet-binary) used for PDF support in Crossbill products (including Crossbill Cone and Crossbill Bone). The plugin implements a common interface used to represent data in PDF format. Installing plugin on Cone or Bone enables PDF functionality including PDF export of the user data and reports.
 
 ## Release version
 
