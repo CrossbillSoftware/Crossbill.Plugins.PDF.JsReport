@@ -1,0 +1,9 @@
+bin\@{env}\Crossbill.Plugins.PDF.JsReport.dll => plugins\Crossbill.Plugins.PDF.JsReport\Crossbill.Plugins.PDF.JsReport.dll
+bin\@{env}\Crossbill.Plugins.PDF.JsReport.deps.json => plugins\Crossbill.Plugins.PDF.JsReport\Crossbill.Plugins.PDF.JsReport.deps.json
+bin\@{env}\jsreport.Binary.dll => plugins\Crossbill.Plugins.PDF.JsReport\jsreport.Binary.dll
+bin\@{env}\jsreport.Binary.Linux.dll => plugins\Crossbill.Plugins.PDF.JsReport\jsreport.Binary.Linux.dll
+bin\@{env}\jsreport.Client.dll => plugins\Crossbill.Plugins.PDF.JsReport\jsreport.Client.dll
+bin\@{env}\jsreport.Local.dll => plugins\Crossbill.Plugins.PDF.JsReport\jsreport.Local.dll
+bin\@{env}\jsreport.Shared.dll => plugins\Crossbill.Plugins.PDF.JsReport\jsreport.Shared.dll
+bin\@{env}\jsreport.Types.dll => plugins\Crossbill.Plugins.PDF.JsReport\jsreport.Types.dll
+plugins => plugins
