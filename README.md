@@ -10,7 +10,7 @@ The compiled version of the plugin can be obtained from [plugin's page on Crossb
 ### Manual installation using Crossbill Central user interface
 1. Open Crossbill Central web page in a browser (common URL for the page is `http://central.example.com` where `example.com` is the domain name provided during the product installation);
 2. In the Installed Apps list (left panel), click the Crossbill Central Agent app link to see the app's plugins;
-3. Enter the plugin name Crossbill.Central.Agent.Plugins.Cloudflare in the search box (right panel) and click Search;
+3. Enter the plugin name Crossbill.Plugins.PDF.JsReport in the search box (right panel) and click Search;
 4. Click Install button;
 5. Enter the plugin's settings in a popup window if required and click the Install button.
 
